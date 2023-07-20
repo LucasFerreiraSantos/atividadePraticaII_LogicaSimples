@@ -1,3 +1,4 @@
+// Exercício V
 const altura = prompt('Digite a sua altura: ')
 const peso = prompt('Digite o seu peso: ')
 const imc = peso / (altura * altura)
